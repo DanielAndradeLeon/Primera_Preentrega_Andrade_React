@@ -1,0 +1,11 @@
+.logo{
+    height: 8rem;
+    border: 0.2rem solid darkblue;
+    border-right: none;
+    border-top: none;
+  }
+
+  h1 {
+    text-align: center;
+    color: rgb(4, 0, 56);
+  }
